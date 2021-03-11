@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 style="text-align: center;">Inkyung's Profile 👩‍💻</p>
 
-<!--
-**6unhkui/6unhkui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 skill
+```javascript
+const skill = {
+  code : [
+    'HTML5', 'CSS3', 'SASS', 'Less',
+    'Javascript', 'Typescript', 
+    'Java'
+  ],
+  tools : [
+    'React', 'Redux', 'Gatsby',
+    'Spring Boot', 'Spring Security', 'Spring Data JPA', 'MyBatis'
+  ],
+  databases : [
+    'Mysql', 'Oracle', 'Postgresql', 
+    'Redis'
+  ]
+}
+```
+### 📃 Side Project
+- My Tech Blog ([Repo](https://github.com/6unhkui/6unhkui.github.io))
+- Study With Us (Repo - [Frontend](https://github.com/6unhkui/study-with-us-front) | [Backend](https://github.com/6unhkui/study-with-us-back))
