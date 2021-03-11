@@ -19,5 +19,5 @@ const skill = {
 };
 ```
 ### 📃 Side Project
-- My Tech Blog ([Repo](https://github.com/6unhkui/6unhkui.github.io))
+- [My Tech Blog](https://6unhkui.github.io/) ([Repo](https://github.com/6unhkui/6unhkui.github.io))
 - Study With Us ([Frontend Repo](https://github.com/6unhkui/study-with-us-front) | [Backend Repo](https://github.com/6unhkui/study-with-us-back))
