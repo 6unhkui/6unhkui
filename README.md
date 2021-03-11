@@ -1,20 +1,19 @@
 <h2 style="text-align: center;">Inkyung's Profile 👩‍💻</p>
 
-### 🚀 Skill
+### 🚀 My Skill Set
 ```javascript
 const skill = {
-  code : [
-    'HTML5', 'CSS3', 'SASS', 'Less',
-    'Javascript', 'Typescript', 
-    'Java'
+  frontEnd : [
+    'HTML5', 'CSS3', 'Sass', 'Less',
+    'Javascript (ES6+)', 'Typescript',
+    'React', 'Redux', 'Gatsby'
   ],
-  libs : [
-    'React', 'Redux', 'Gatsby',
-    'Spring Boot', 'Spring Security', 'Spring Data JPA', 'MyBatis'
+  backEnd : [
+    'Java', 'Spring Boot', 'Spring Security', 'Spring Data JPA', 'MyBatis',
+    'Mysql', 'Oracle', 'Postgresql', 'Redis'
   ],
-  databases : [
-    'Mysql', 'Oracle', 'Postgresql', 
-    'Redis'
+  devOps : [
+    'AWS', 'Linux', 'Nginx'
   ]
 };
 ```
