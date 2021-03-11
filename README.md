@@ -8,7 +8,7 @@ const skill = {
     'Javascript', 'Typescript', 
     'Java'
   ],
-  tools : [
+  libs : [
     'React', 'Redux', 'Gatsby',
     'Spring Boot', 'Spring Security', 'Spring Data JPA', 'MyBatis'
   ],
