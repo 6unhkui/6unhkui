@@ -1,6 +1,6 @@
 <h2 style="text-align: center;">Inkyung's Profile 👩‍💻</p>
 
-### 🚀 skill
+### 🚀 Skill
 ```javascript
 const skill = {
   code : [
