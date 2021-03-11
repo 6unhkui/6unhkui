@@ -16,8 +16,8 @@ const skill = {
     'Mysql', 'Oracle', 'Postgresql', 
     'Redis'
   ]
-}
+};
 ```
 ### 📃 Side Project
 - My Tech Blog ([Repo](https://github.com/6unhkui/6unhkui.github.io))
-- Study With Us (Repo - [Frontend](https://github.com/6unhkui/study-with-us-front) | [Backend](https://github.com/6unhkui/study-with-us-back))
+- Study With Us ([Frontend Repo](https://github.com/6unhkui/study-with-us-front) | [Backend Repo](https://github.com/6unhkui/study-with-us-back))
