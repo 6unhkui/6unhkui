@@ -6,12 +6,12 @@ const skill = {
   frontEnd : [
     'HTML5', 'CSS3', 'Sass', 'Less',
     'Javascript (ES6+)', 'Typescript',
-    'React', 'Gatsby',
+    'React', 'Gatsby', 'Next.js',
     'Redux', 'Redux-Saga'
   ],
   backEnd : [
     'Java', 'Spring Boot', 'Spring Security', 'Spring Data JPA', 'MyBatis',
-    'Node.js', 'Express', 'MikroORM',
+    'Node.js', 'Express', 'Apollo Server', 'TypeORM',
     'RDBMS(Mysql, Oracle, Postgresql)', 'NoSQL(Redis)'
   ],
   devOps : [
