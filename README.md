@@ -20,5 +20,7 @@ const skill = {
 };
 ```
 ### 📃 Side Project
+- Board App (Spring Boot, JPA, Thymeleaf) ([Repo](https://github.com/6unhkui/springboot-jpa-board))
 - [My Tech Blog](https://6unhkui.github.io/) ([Repo](https://github.com/6unhkui/6unhkui.github.io))
 - Study With Us ([Frontend Repo](https://github.com/6unhkui/study-with-us-front) | [Backend Repo](https://github.com/6unhkui/study-with-us-back))
+- Board App (Typescript, GraphQL, Next.js) ([Repo](https://github.com/6unhkui/ts-graphql-board))
