@@ -4,7 +4,8 @@
 ```javascript
 const skill = {
   frontEnd : [
-    'HTML5', 'CSS3', 'CSS Preprocessor(Sass, Less)', 'CSS in JS(styled-components)',
+    'HTML5', 'CSS3',
+    'CSS Preprocessor(Sass, Less)', 'CSS in JS(styled-components)',
     'Javascript (ES6+)', 'Typescript',
     'React', 'Gatsby', 'Next.js',
     'Redux', 'Redux-Saga',
