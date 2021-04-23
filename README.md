@@ -1,6 +1,6 @@
-<h2 style="text-align: center;">Inkyung's Profile 👩‍💻</p>
+<h2 style="text-align: center;">My Profile 👩‍💻</p>
 
-### 🚀 My Skill Set
+### 🚀 Skill Set.
 ```javascript
 const skill = {
   frontEnd : [
@@ -21,6 +21,6 @@ const skill = {
   ]
 };
 ```
-### 📃 Side Project
-- [My Tech Blog](https://6unhkui.github.io/) ([Repo](https://github.com/6unhkui/6unhkui.github.io))
+### 📃 Side Projects.
+- [기술 블로그 ✍️](https://6unhkui.github.io/) ([Repo](https://github.com/6unhkui/6unhkui.github.io))
 - Study With Us ([Frontend Repo](https://github.com/6unhkui/study-with-us-front) | [Backend Repo](https://github.com/6unhkui/study-with-us-back))
