@@ -27,4 +27,4 @@ const skill = {
 - Study With Us ([Frontend Repo](https://github.com/6unhkui/study-with-us-front) | [Backend Repo](https://github.com/6unhkui/study-with-us-back))
 
 ### 🏆 My Github Stats.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6unhkui&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6unhkui&theme=material-palenight&layout=compact)
